@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xTino90
 - 👀 I’m interested in developer front-end and back-end
-- 🌱 I’m currently learning TyprScript
+- 🌱 I’m currently learning TypeScript
 
 
 <!---
